@@ -1,0 +1,12 @@
+com\artem\servlet\FileServlet.class
+com\artem\domain\User.class
+com\artem\servlet\JspServlet.class
+com\artem\servlet\MainServlet.class
+com\artem\servlet\SimpleAbstractServlet.class
+com\artem\authentication\SimplePrinciple.class
+com\artem\authentication\Authentication.class
+com\artem\servlet\GreetingServlet.class
+com\artem\authentication\SimpleCallbackHandler.class
+com\artem\authentication\SimpleLoginModule.class
+com\artem\servlet\LoginServlet.class
+com\artem\Main.class
